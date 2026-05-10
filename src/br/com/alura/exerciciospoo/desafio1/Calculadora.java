@@ -1,3 +1,5 @@
+package br.com.alura.exerciciospoo.desafio1;
+
 //2
 public class Calculadora {
     void calculaDobro(double numero){

@@ -1,3 +1,5 @@
+package br.com.alura.exerciciospoo.desafio1;
+
 //5
 public class Aluno {
     String nome;

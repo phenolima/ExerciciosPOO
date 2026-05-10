@@ -1,3 +1,5 @@
+package br.com.alura.exerciciospoo.desafio1;
+
 //3
 public class Musica {
     String titulo;
