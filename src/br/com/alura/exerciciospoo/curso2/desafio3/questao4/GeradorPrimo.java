@@ -1,0 +1,11 @@
+package br.com.alura.exerciciospoo.curso2.desafio3.questao4;
+
+public class GeradorPrimo extends NumerosPrimos {
+    public int gerarProximoPrimo(int ultimoPrimoConhecido) {
+        int proximoNumero = ultimoPrimoConhecido + 1;
+        while (!verificarPrimalidade(proximoNumero)) {
+            proximoNumero++;
+        }
+        return proximoNumero;
+    }
+}
