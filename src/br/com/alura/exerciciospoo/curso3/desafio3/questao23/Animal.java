@@ -1,4 +1,4 @@
-package br.com.alura.exerciciospoo.curso3.desafio3.questao2;
+package br.com.alura.exerciciospoo.curso3.desafio3.questao23;
 
 public class Animal {
     private String barulho;
